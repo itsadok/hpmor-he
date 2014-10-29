@@ -1,0 +1,34 @@
+@import url(http://fonts.googleapis.com/earlyaccess/alefhebrew.css);
+body {
+    font: 100% "Alef Hebrew", "Helvetica Neue", Arial;
+    color: #222;
+    background: #fff;
+	padding: 0;
+	margin: 0;
+}
+
+h1 {
+    text-align: center;
+    font-size: 2.4em;
+   	padding-bottom: 80px;
+	background: url('fleur.png') no-repeat center bottom;
+    max-width: 18em;
+	margin: 0 auto;
+}
+
+#nav-bottom { 
+	margin-top: 1.5em; 
+	padding-top: 70px;
+	background: url('fleur.png') no-repeat center top;
+}
+
+#storycontent
+{
+	max-width: 42em;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 2em;
+	line-height: 140%;
+}
+
+
